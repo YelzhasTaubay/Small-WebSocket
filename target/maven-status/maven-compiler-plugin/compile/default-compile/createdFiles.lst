@@ -1,0 +1,9 @@
+real\socket\config\RootConfig.class
+real\socket\dao\LogsDAOImpl.class
+real\socket\models\Logs.class
+real\socket\service\GreeterService.class
+real\socket\config\WebSocketConfig.class
+real\socket\controller\HomeController.class
+real\socket\config\WebAppInit.class
+real\socket\dao\LogsDAO.class
+real\socket\config\WebConfig.class
